@@ -1,9 +1,9 @@
 ---
-name: Your Name
-name_zh: feiwang
+name: feiwang
+name_zh: 王菲
 student_id: 20261104525
 email: wangfei92@westlake.edu.cn
-github: your-github-handle
+github: wangfei-wlu
 lecture: 9
 teammates: xiaomengzhu
 ---
